@@ -83,5 +83,3 @@ Este projeto utiliza a biblioteca Pandas para a manipulação e análise dos dad
 ## Dúvidas e Suporte
 
 Para qualquer dúvida ou suporte, sinta-se à vontade para entrar em contato comigo [contato.felipebragaduarte@gmail.com].
-
-```
