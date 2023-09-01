@@ -6,7 +6,7 @@ Este projeto automatiza o processo de filtragem, multiplicação e armazenamento
 ## Estrutura do Projeto
 
 ```
-.
+```markdown
 ├── files
 │ ├── resultados_calc.txt
 │ └── value.xlsx
@@ -15,6 +15,7 @@ Este projeto automatiza o processo de filtragem, multiplicação e armazenamento
 ├── main.py
 ├── README.md
 └── requirements.txt
+```
 ```
 
 ## Descrição dos Diretórios e Arquivos
