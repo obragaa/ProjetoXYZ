@@ -8,13 +8,13 @@ Este projeto automatiza o processo de filtragem, multiplicação e armazenamento
 ```
 .
 ├── files
-│   ├── resultados_calc.txt
-│   ├── value.xlsx
+│ ├── resultados_calc.txt
+│ └── value.xlsx
 ├── src
-│   ├── cord.py
+│ └── cord.py
 ├── main.py
 ├── README.md
-├── requirements.txt
+└── requirements.txt
 ```
 
 ## Descrição dos Diretórios e Arquivos
