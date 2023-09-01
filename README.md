@@ -3,11 +3,10 @@
 # Automatização de Cálculos - Projeto XYZ
 
 Este projeto automatiza o processo de filtragem, multiplicação e armazenamento de valores a partir de um arquivo Excel, utilizando a calculadora do Windows.
-
-## Estrutura do Projeto
-
 ```
 ```markdown
+## Estrutura do Projeto
+
 ├── files
 │ ├── resultados_calc.txt
 │ └── value.xlsx
